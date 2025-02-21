@@ -39,6 +39,6 @@
 
 
 
-  <img src="github-snake" src="https://raw.githubusercontent.com/szymek343t/szymek343t/output/snake.yml"/>
+  <img src="snake" src="https://raw.githubusercontent.com/szymek343t/szymek343t/output/snake.yml"/>
 
 
