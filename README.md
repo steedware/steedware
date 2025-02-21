@@ -39,6 +39,6 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/szymek343t/szymek343t/output/snake.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/szymek343t/szymek343t/output/snake.svg](http://github.com/szymek343t/szymek343t/blob/output/snake.svg)" alt="Snake animation" />
 
 
