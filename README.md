@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Szymon!
+# Hello World! I'm Szymon!
 <p>I'm currently studying 👨‍🎓📖</p>
 
 # 💻 Tech Stack:
