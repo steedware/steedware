@@ -28,3 +28,4 @@ Junior Java Developer with 6 months of commercial experience in backend developm
 ### 🎯 Additional Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/steedware/steedware/output/github-snake.svg" alt="github-snake" />
