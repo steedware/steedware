@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Szymon
 
 ## 🚀 About Me
-Junior Java Developer with 6 months of commercial experience in backend development and database management. Passionate about building robust Spring Boot applications and scalable REST APIs. Currently pursuing Computer Science degree while gaining hands-on experience in Java ecosystem and modern backend technologies.
+Junior Java Developer with over 1 year of commercial experience in backend development and database management. Passionate about building robust Spring Boot applications and scalable REST APIs. Currently pursuing Computer Science degree while gaining hands-on experience in Java ecosystem and modern backend technologies.
 
 - 🔭 I'm currently working on **Spring Boot applications** and **REST API development**
 - 🌱 I'm currently learning **Microservices architecture** and **Spring Cloud**
